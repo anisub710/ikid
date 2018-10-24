@@ -102,7 +102,7 @@
             </objects>
             <point key="canvasLocation" x="749.60000000000002" y="359.37031484257875"/>
         </scene>
-        <!--Third-->
+        <!--Knock knock-->
         <scene sceneID="36x-fw-O7O">
             <objects>
                 <viewController id="t68-Uw-wsG" customClass="ThirdViewController" customModule="iKid" customModuleProvider="target" sceneMemberID="viewController">
@@ -144,7 +144,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="ehL-Kt-1ka"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Third" image="second" id="2za-hn-FFq"/>
+                    <tabBarItem key="tabBarItem" title="Knock knock" image="first" id="2za-hn-FFq"/>
                     <connections>
                         <outlet property="knockText" destination="fCw-CP-LwV" id="wsL-Sy-DXb"/>
                         <outlet property="knockView" destination="VB2-wj-bLl" id="1Xv-KM-gJj"/>
